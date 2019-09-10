@@ -1,1 +1,1 @@
-module willnorris.com/go/gifresize
+module github.com/admpub/gifresize
