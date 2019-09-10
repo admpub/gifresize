@@ -28,7 +28,7 @@ import (
 	"os"
 
 	"github.com/nfnt/resize"
-	"willnorris.com/go/gifresize"
+	"github.com/admpub/gifresize"
 )
 
 var width, height uint
